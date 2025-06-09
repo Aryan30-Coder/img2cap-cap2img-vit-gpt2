@@ -6,7 +6,9 @@ This project demonstrates a **bidirectional deep learning system** that can:
 ✅ Generate natural-language captions from input images  
 ✅ Generate relevant images from given textual captions  
 
-It combines a **Vision Transformer (ViT)** for feature extraction and a **Bidirectional LSTM** for language understanding/generation. The result is a dual-capable system that bridges vision and language in both directions. A bidirectional vision-language model that generates captions from images and retrieves or generates images from captions, using ViT-GPT2 with Hugging Face Transformers.
+It combines a **Vision Transformer (ViT)** for feature extraction and a **Bidirectional LSTM** for language understanding/generation.
+The result is a dual-capable system that bridges vision and language in both directions. 
+A bidirectional vision-language model that generates captions from images and retrieves or generates images from captions, using ViT-GPT2 with Hugging Face Transformers.
 
 **Repository Strucutre**
 img2cap-cap2img-vit-gpt2/
